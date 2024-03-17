@@ -29,7 +29,7 @@ sns.barplot(data=station_entries.head(10), x='ridership', y='station_complex')
 plt.xlabel('Ortalama Giriş Sayısı')
 plt.ylabel('İstasyon')
 plt.title('En Yüksek 10 İstasyon (Ortalama Giriş Sayısı)')
-plt.xticks(rotation=45, ha='right')  # İstasyon isimlerini yatay olarak düzenleme
-plt.tight_layout()  # Görseli sığdırmak için
+plt.xticks(rotation=45, ha='right')  
+plt.tight_layout() 
 plt.show()
 
