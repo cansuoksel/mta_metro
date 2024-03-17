@@ -22,18 +22,3 @@ The goal of this initiative is to use MTA subway data to enhance street crew pla
 5. Making use of more data sources
 6. Results presentation
 
-## Running Techniques
-
-1. Make a copy of the project files onto your PC.
-2. Install any required Python
-3. Launch the project files in Jupyter Notebook or Anaconda, two Python environments.
-4. Use the `analysis.ipynb` file to execute the data analysis step-by-step.
-
-## Participate
-
-- Please file a pull request or start an issue if you would want to contribute to this project or offer suggestions.
-- To participate, clone the project, edit it, and submit a pull request.
-
-## Permit
-
-The MIT license applies to this project. For further details, refer to the LICENSE file.
